@@ -16,7 +16,7 @@
 
 Name:		%{?scl_prefix}mecab-ipadic
 Version:	%{majorver}.%{date}
-Release:	16%{?dist}
+Release:	16.bs1%{?dist}
 Summary:	IPA dictionary for MeCab
 
 Group:		Applications/Text
